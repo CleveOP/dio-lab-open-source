@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou CleveOP!
 
-Sou um estudante apaixonado por tecnologia, sempre explorando novas maneiras de criar e aprender. Minha jornada começou com HTML e CSS, ferramentas que me permitem transformar ideias em realidade na web. 🚀
+Sou um estudante apaixonado por tecnologia, sempre explorando novas maneiras de criar e aprender. Minha jornada começou com HTML e CSS, ferramentas que me permitem transformar ideias em realidade na web. 🚀.😉
 
 ## 💡 Sobre Mim
 
